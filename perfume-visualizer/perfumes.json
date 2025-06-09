@@ -1,0 +1,29 @@
+{
+    "perfumes": [
+        {
+            "name": "Chanel No. 5",
+            "brand": "Chanel",
+            "notes": ["aldehydes", "rose", "jasmine", "citrus", "vanilla"]
+        },
+        {
+            "name": "Dior Sauvage",
+            "brand": "Dior",
+            "notes": ["bergamot", "pepper", "ambroxan", "cedar"]
+        },
+        {
+            "name": "Acqua di Gio",
+            "brand": "Giorgio Armani",
+            "notes": ["marine", "citrus", "patchouli", "cedar"]
+        },
+        {
+            "name": "Black Opium",
+            "brand": "Yves Saint Laurent",
+            "notes": ["coffee", "vanilla", "white flowers", "patchouli"]
+        },
+        {
+            "name": "Light Blue",
+            "brand": "Dolce & Gabbana",
+            "notes": ["lemon", "apple", "cedar", "amber"]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+node_modules/
+perfume-visualizer/node_modules/
+.next/
+.DS_Store
